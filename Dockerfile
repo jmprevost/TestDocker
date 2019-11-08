@@ -12,6 +12,8 @@ RUN pip install -r Requirements.txt
 
 COPY . /app
 
+EXPOSE 5000
+
 ENTRYPOINT ["python"]
 
 CMD ["server.py"]
