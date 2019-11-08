@@ -1,0 +1,3 @@
+Flask==1.1.1
+connexion==2.4.0
+swagger-ui-bundle==0.0.5
